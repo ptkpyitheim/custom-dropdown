@@ -1,0 +1,21 @@
+.dropdown {
+  width: 250px;
+  background-color: lightslategray;
+  border-radius: 4px;
+  color: white;
+  border: 1px solid black;
+}
+
+.dropdown .content {
+  padding: 7px 17px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.allOptions {
+  max-height: 350px;
+  background-color: whitesmoke;
+  overflow: scroll;
+}

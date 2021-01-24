@@ -1,0 +1,9 @@
+.App {
+  padding: 1.5rem;
+}
+
+.content {
+  padding: 3rem;
+  display: flex;
+  justify-content: left;
+}
